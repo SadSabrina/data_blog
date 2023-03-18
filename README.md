@@ -1,2 +1,2 @@
 # data_blog
-Materials from my data blog in telegram
+Materials from my telegram data blog
